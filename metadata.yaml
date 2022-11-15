@@ -1,0 +1,5 @@
+homepage: ​"www.timeonegroup.com"​,
+documentation: ​"https://github.com/TimeOne-Group/gtm-vendor-timeone-sdk-tag-conversion/blob/main/docs/install.md"​,
+versions:
+  - sha: 66f57c81454f72d5c58816655bb4928cf67324a8
+    changeNotes: ​Initial release.
