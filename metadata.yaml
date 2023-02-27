@@ -1,5 +1,7 @@
 homepage: ​"www.timeonegroup.com"​,
 documentation: ​"https://github.com/TimeOne-Group/gtm-vendor-timeone-sdk-tag-conversion/blob/main/docs/install.md"​,
 versions:
+  - sha: f4091fb9876b312d85db3e317a0040ec27429581
+    changeNotes: typo iu key
   - sha: c69c5ee68411a62526664365fa077c1edd4eec5b
     changeNotes: ​Initial release.
