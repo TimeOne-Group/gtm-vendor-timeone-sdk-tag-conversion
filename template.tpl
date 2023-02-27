@@ -90,7 +90,7 @@ ___TEMPLATE_PARAMETERS___
   },
   {
     "type": "TEXT",
-    "name": "ui",
+    "name": "iu",
     "displayName": "clé sécurisée",
     "simpleValueType": true,
     "valueValidators": [
